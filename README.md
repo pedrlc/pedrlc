@@ -3,27 +3,20 @@
 🎓 Estudante de tecnologia  
 💻 Focado em programação e desenvolvimento de software  
 🚀 Sempre buscando aprender e criar projetos práticos   
+🤝 Aberto a colaborações em projetos web e automações
+
 --- 
+
 ## 📊 Minhas estatísticas no GitHub
 
-<div align="center">
+<div>
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrlc&show_icons=true&theme=dark" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrlc&layout=compact&theme=dark" />
 
 </div>
 
-
----
 ## 🛠️ Habilidades e Tecnologias
-
-### 🎨 UX / UI
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40"/>
-</p>
-
----
 
 ### 💻 Front-end
 
@@ -31,10 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
- 
-</p>
-
----
+</p>   
 
 ### ⚙️ Back-end
 
@@ -42,9 +32,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs&perline=8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-</p>
-
----
+</p>   
 
 ### 📚 Aprendendo atualmente
 
@@ -52,9 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-</p>
-
----
+</p>   
 
 ### Outros
 
@@ -64,7 +50,19 @@
 </p>
 
 ---
-## 📫 Como me encontrar
+## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/pedro-lucas-lopes-monteiro)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:pedrolucaslopesmonteiro43@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/Pedro-Lucas-Lopes-Monteiro/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/pedro.lc_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:pedrolucaslopesmonteiro43@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
