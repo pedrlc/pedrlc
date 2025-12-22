@@ -1,6 +1,6 @@
-## Olá, me chamo Pedro Lucas 
+## Olá, me chamo Pedro Lucas!
 
-🎓 Estudante de tecnologia  
+🎓 Estudante de Engenharia de Software  
 💻 Focado em programação e desenvolvimento de software  
 🚀 Sempre buscando aprender e criar projetos práticos   
 🤝 Aberto a colaborações em projetos web e automações
