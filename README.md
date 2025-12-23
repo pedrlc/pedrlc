@@ -11,9 +11,8 @@
 
 <div>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrlc&show_icons=true&theme=dark" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrlc&layout=compact&theme=dark" />
-
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrlc&show_icons=true&theme=dark&cache_seconds=1800" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrlc&layout=compact&theme=dark&cache_seconds=1800" />
 
 </div>
 
