@@ -10,8 +10,8 @@
 ## 📊 Minhas estatísticas no GitHub
 
 <div> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrlc&show_icons=true&theme=dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrlc&layout=compact&theme=dark" /> 
+  <img height="160em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=pedrlc&show_icons=true&theme=dark" />
+  <img height="160em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=pedrlc&layout=compact&theme=dark" />
 </div>
 
 
