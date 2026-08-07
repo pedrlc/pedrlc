@@ -11,7 +11,7 @@
 
 <div> 
   <img height="160em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=pedrlc&show_icons=true&theme=dark&count_private=true" />
-  <img height="160em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=pedrlc&layout=compact&theme=dark&count_private=true" />
+  <img height="160em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=pedrlc&layout=compact&theme=dark&hide=jupyter%20notebook,css,html" />
 </div>
 
 
