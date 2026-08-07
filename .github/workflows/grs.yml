@@ -26,7 +26,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=pedrlc&layout=compact&count_private=true&theme=dark&hide=jupyter%20notebook&include_forks=true
+          options: username=pedrlc&layout=compact&count_private=true&theme=dark&langs_count=8&include_forks=true
           path: profile/top-langs.svg
           token: ${{ secrets.PAT_TOKEN }}
 
