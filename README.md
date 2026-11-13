@@ -57,7 +57,7 @@ Conecta em adaptadores **OBD2 Bluetooth (ELM327/UScan)** e mostra o que está ac
 
 ## <img src="profile/title-arcade.svg" width="880" alt="05 / Arcade" />
 
-<p align="center">Cada contribuição, uma casinha a menos para a cobrinha. Meu histórico em modo jogo.</p>
+
 
 <p align="center">
   <img alt="Animação da cobrinha comendo meu gráfico de contribuições do GitHub" src="profile/github-snake-dark.svg" />
@@ -67,7 +67,7 @@ Conecta em adaptadores **OBD2 Bluetooth (ELM327/UScan)** e mostra o que está ac
 
 <div align="center">
 
-<p><em>Projetos web, mobile, automações ou uma boa conversa sobre carros e código.</em></p>
+<p><em>Projetos web, mobile, automações.</em></p>
 
 <a href="https://www.linkedin.com/in/Pedro-Lucas-Lopes-Monteiro/">LinkedIn</a> ·
 <a href="https://vrumoficial.com.br">Vrum</a> ·
