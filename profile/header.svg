@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img">
+<title>Pedro Lucas - Engenharia de Software, Mobile e Full Stack</title>
+<defs>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#22d3ee" stroke-opacity=".06"/>
+  </pattern>
+  <radialGradient id="glow" cx="0.821" cy="0.494" r=".42">
+    <stop offset="0" stop-color="#22d3ee" stop-opacity=".20"/>
+    <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="tg" x1="0" x2="1">
+    <stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#22d3ee"/>
+  </linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="6"/></filter>
+  <clipPath id="rv"><rect x="0" y="0" width="0" height="320">
+    <animate attributeName="width" from="0" to="820" dur="1.4s" begin="0.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .7 .2 1"/>
+  </rect></clipPath>
+  <style>
+    @keyframes blink{50%{fill-opacity:0}}
+    .cur{animation:blink 1s steps(1) infinite}
+  </style>
+</defs>
+<rect width="1200" height="320" fill="#0b0f14"/>
+<rect width="1200" height="320" fill="url(#grid)"/>
+<rect width="1200" height="320" fill="url(#glow)"/>
+<path d="M12 30 V12 H30 M1170 12 H1188 V30 M12 290 V308 H30 M1170 308 H1188 V290" fill="none" stroke="#2a3948" stroke-width="1.5"/>
+<g font-family="'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="12" letter-spacing="2">
+<circle cx="62" cy="45" r="4" fill="#34d399"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="76" y="49" fill="#6b7280">OBD://PEDROLC  ·  ONLINE</text>
+<text x="60" y="282" fill="#6b7280">FLUTTER · DART · NODE · TS</text>
+</g>
+<g clip-path="url(#rv)">
+<text x="58" y="148" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="84" font-weight="800" fill="url(#tg)" letter-spacing="-1">Pedro Lucas</text>
+</g>
+<rect x="60" y="168" width="150" height="4" rx="2" fill="#f59e0b"><animate attributeName="width" from="0" to="150" dur="1s" begin="0.9s" fill="freeze"/></rect>
+<text x="60" y="206" font-family="'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="15" letter-spacing="4" fill="#22d3ee">ENGENHARIA DE SOFTWARE  /  MOBILE  /  FULL STACK</text>
+<text x="60" y="250" font-family="'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="19" fill="#e5e7eb">&gt; diagnosticando carros, escrevendo código<tspan class="cur" fill="#f59e0b">▌</tspan></text>
+<circle cx="985" cy="158" r="126" fill="#111821" stroke="#1f2a37" stroke-width="2"/>
+<path d="M905.8 237.2 A112 112 0 1 1 1064.2 237.2" fill="none" stroke="#1f2a37" stroke-width="10" stroke-linecap="round"/>
+<path d="M905.8 237.2 A112 112 0 1 1 1096.5 147.0" fill="none" stroke="#22d3ee" stroke-opacity=".55" stroke-width="10" stroke-linecap="round"/>
+<path d="M1096.5 147.0 A112 112 0 0 1 1064.2 237.2" fill="none" stroke="#ef4444" stroke-opacity=".85" stroke-width="10" stroke-linecap="round"/>
+<line x1="912.9" y1="230.1" x2="924.2" y2="218.8" stroke="#e5e7eb" stroke-width="3" stroke-linecap="round"/>
+<text x="936.9" y="206.1" dy=".35em" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#e5e7eb">0</text>
+<line x1="885.0" y1="177.9" x2="900.7" y2="174.8" stroke="#e5e7eb" stroke-width="3" stroke-linecap="round"/>
+<text x="918.3" y="171.3" dy=".35em" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#e5e7eb">1</text>
+<line x1="890.8" y1="119.0" x2="905.5" y2="125.1" stroke="#e5e7eb" stroke-width="3" stroke-linecap="round"/>
+<text x="922.2" y="132.0" dy=".35em" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#e5e7eb">2</text>
+<line x1="928.3" y1="73.2" x2="937.2" y2="86.5" stroke="#e5e7eb" stroke-width="3" stroke-linecap="round"/>
+<text x="947.2" y="101.5" dy=".35em" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#e5e7eb">3</text>
+<line x1="985.0" y1="56.0" x2="985.0" y2="72.0" stroke="#e5e7eb" stroke-width="3" stroke-linecap="round"/>
+<text x="985.0" y="90.0" dy=".35em" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#e5e7eb">4</text>
+<line x1="1041.7" y1="73.2" x2="1032.8" y2="86.5" stroke="#e5e7eb" stroke-width="3" stroke-linecap="round"/>
+<text x="1022.8" y="101.5" dy=".35em" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#e5e7eb">5</text>
+<line x1="1079.2" y1="119.0" x2="1064.5" y2="125.1" stroke="#e5e7eb" stroke-width="3" stroke-linecap="round"/>
+<text x="1047.8" y="132.0" dy=".35em" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#e5e7eb">6</text>
+<line x1="1085.0" y1="177.9" x2="1069.3" y2="174.8" stroke="#ef4444" stroke-width="3" stroke-linecap="round"/>
+<text x="1051.7" y="171.3" dy=".35em" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#ef4444">7</text>
+<line x1="1057.1" y1="230.1" x2="1045.8" y2="218.8" stroke="#ef4444" stroke-width="3" stroke-linecap="round"/>
+<text x="1033.1" y="206.1" dy=".35em" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#ef4444">8</text>
+<line x1="895.0" y1="206.1" x2="903.0" y2="201.8" stroke="#6b7280" stroke-width="2" stroke-linecap="round"/>
+<line x1="883.5" y1="148.0" x2="892.4" y2="148.9" stroke="#6b7280" stroke-width="2" stroke-linecap="round"/>
+<line x1="906.2" y1="93.3" x2="913.1" y2="99.0" stroke="#6b7280" stroke-width="2" stroke-linecap="round"/>
+<line x1="955.4" y1="60.4" x2="958.0" y2="69.0" stroke="#6b7280" stroke-width="2" stroke-linecap="round"/>
+<line x1="1014.6" y1="60.4" x2="1012.0" y2="69.0" stroke="#6b7280" stroke-width="2" stroke-linecap="round"/>
+<line x1="1063.8" y1="93.3" x2="1056.9" y2="99.0" stroke="#6b7280" stroke-width="2" stroke-linecap="round"/>
+<line x1="1086.5" y1="148.0" x2="1077.6" y2="148.9" stroke="#6b7280" stroke-width="2" stroke-linecap="round"/>
+<line x1="1075.0" y1="206.1" x2="1067.0" y2="201.8" stroke="#6b7280" stroke-width="2" stroke-linecap="round"/>
+<text x="985" y="216" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="11" letter-spacing="2" fill="#6b7280">RPM x1000</text>
+<text x="985" y="236" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="12" font-weight="700" letter-spacing="3" fill="#f59e0b">VRUM</text>
+<g><animateTransform attributeName="transform" type="rotate" values="135 985 158;135 985 158;338 985 158;296 985 158;350 985 158;262 985 158;150 985 158;135 985 158" keyTimes="0;.10;.28;.38;.52;.66;.84;1" calcMode="spline" keySplines=".4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1" dur="8s" repeatCount="indefinite"/>
+<line x1="967" y1="158" x2="1081" y2="158" stroke="#f59e0b" stroke-width="4" stroke-linecap="round"/>
+</g>
+<circle cx="985" cy="158" r="9" fill="#0b0f14" stroke="#f59e0b" stroke-width="3"/>
+<rect x="0" y="296" width="1200" height="24" fill="#0e141b"/>
+<line x1="0" y1="296.5" x2="1200" y2="296.5" stroke="#1f2a37"/>
+<line x1="-44" y1="308" x2="1244" y2="308" stroke="#f59e0b" stroke-opacity=".7" stroke-width="3" stroke-dasharray="26 18"><animate attributeName="stroke-dashoffset" from="0" to="-44" dur=".7s" repeatCount="indefinite"/></line>
+</svg>

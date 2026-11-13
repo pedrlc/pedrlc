@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 360" width="880" height="360" role="img">
+<title>Sobre Pedro Lucas</title>
+<defs><clipPath id="c"><rect width="880" height="360" rx="8"/></clipPath>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset="1" stop-color="#22d3ee" stop-opacity=".10"/></linearGradient></defs>
+<rect x=".5" y=".5" width="879" height="359" rx="8" fill="#111821" stroke="#1f2a37"/>
+<g clip-path="url(#c)">
+<rect x="0" y="-60" width="880" height="60" fill="url(#scan)"><animateTransform attributeName="transform" type="translate" values="0 0;0 420" dur="6s" repeatCount="indefinite"/></rect>
+</g>
+<path d="M8 22 V8 H22 M858 8 H872 V22 M8 338 V352 H22 M858 352 H872 V338" fill="none" stroke="#2a3948" stroke-width="1.5"/>
+<text x="40" y="54" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#e5e7eb">Estudante de Engenharia de Software e co-fundador &amp; CTO da Vrum.</text>
+<text x="40" y="82" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#e5e7eb">Construo apps mobiles com Flutter, automações e sistemas,</text>
+<text x="40" y="110" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#e5e7eb">porque quero entregar produtos completos, do aparelho ao servidor.</text>
+<line x1="40" y1="142" x2="840" y2="142" stroke="#1f2a37"/>
+<rect x="40" y="140" width="40" height="4" fill="#f59e0b"/>
+<rect x="40" y="175" width="7" height="7" fill="#f59e0b" transform="rotate(45 43.5 178.5)"/>
+<text x="62" y="180" font-family="'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="12" font-weight="700" letter-spacing="2" fill="#f59e0b">STATUS</text>
+<text x="190" y="181" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#e5e7eb">Cursando Engenharia de Software no IDP · Brasília-DF</text>
+<rect x="40" y="211" width="7" height="7" fill="#f59e0b" transform="rotate(45 43.5 214.5)"/>
+<text x="62" y="216" font-family="'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="12" font-weight="700" letter-spacing="2" fill="#f59e0b">PROJETO</text>
+<text x="190" y="217" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#e5e7eb">Vrum: diagnóstico automotivo OBD2 em tempo real, feito em Flutter</text>
+<rect x="40" y="247" width="7" height="7" fill="#f59e0b" transform="rotate(45 43.5 250.5)"/>
+<text x="62" y="252" font-family="'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="12" font-weight="700" letter-spacing="2" fill="#f59e0b">STACK</text>
+<text x="190" y="253" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#e5e7eb">Flutter · Dart · JavaScript · TypeScript · Node.js · Python</text>
+<text x="190" y="275" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#e5e7eb">LLMs · Machine Learning · Deep Learning</text>
+<rect x="40" y="305" width="7" height="7" fill="#f59e0b" transform="rotate(45 43.5 308.5)"/>
+<text x="62" y="310" font-family="'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="12" font-weight="700" letter-spacing="2" fill="#f59e0b">EM TREINO</text>
+<text x="190" y="311" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#e5e7eb">Back-end com PostgreSQL e Docker</text>
+<rect x="40" y="341" width="7" height="7" fill="#f59e0b" transform="rotate(45 43.5 344.5)"/>
+<text x="62" y="346" font-family="'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',Menlo,monospace" font-size="12" font-weight="700" letter-spacing="2" fill="#f59e0b">ABERTO A</text>
+<text x="190" y="347" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="16" fill="#e5e7eb">Colaborações em projetos web, mobile e automações</text>
+</svg>

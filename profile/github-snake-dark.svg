@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 120" width="880" height="120" role="img">
+  <title>Animação da cobrinha (será substituída pelo workflow)</title>
+  <rect x=".5" y=".5" width="879" height="119" rx="8" fill="#0b0f14" stroke="#1f2a37"/>
+  <text x="440" y="56" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="14" letter-spacing="2" fill="#6b7280">AGUARDANDO O WORKFLOW GERAR A COBRINHA</text>
+  <text x="440" y="82" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="12" fill="#6b7280">Actions → "Gerar animação de contribuições" → Run workflow</text>
+  <circle cx="60" cy="100" r="5" fill="#22d3ee"><animate attributeName="cx" values="60;820;60" dur="5s" repeatCount="indefinite"/></circle>
+</svg>
